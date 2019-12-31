@@ -1,0 +1,62 @@
+
+
+/* Text Styling */
+.ds-opc-2 {
+    opacity: .2;
+}
+
+.ds-opc-4 {
+    opacity: .4;
+}
+
+.ds-opc-6 {
+    opacity: .6;
+}
+
+.ds-text-primary {
+    font-family: 'Roboto Slab', serif;
+}
+
+.ds-text-secondary {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.ds-text-14px {
+    font-size: 14px;
+}
+
+.ds-text-16px {
+    font-size: 16px;
+}
+
+.ds-text-20px {
+    font-size: 20px;
+}
+
+.ds-text-24px {
+    font-size: 24px;
+}
+
+.ds-text-28px {
+    font-size: 28px;
+}
+
+blockquote {
+    color: rgb(95, 158, 160);
+    font-size: 28px;
+    text-align: center;
+    margin: 64px auto;
+    max-width: 300px;
+}
+
+.ds-text-bold {
+    font-weight: 700;
+}
+
+.ds-text-bold {
+    font-style: italic;
+}
+
+.ds-text-bold {
+    text-decoration: underline;
+}
